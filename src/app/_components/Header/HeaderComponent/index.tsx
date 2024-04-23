@@ -7,7 +7,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import classes from './index.module.scss'
 import { HeaderNav } from '../Nav'
-import MobileNav from '../MobileNav'
+// import MobileNav from '../MobileNav'
 import { noHeaderFooterUrls } from '../../../constants'
 import { usePathname } from 'next/navigation'
 
